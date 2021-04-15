@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionName="2.0" package="Wallisoft.TinyTorch" android:installLocation="auto" android:versionCode="4">
+	<uses-sdk android:minSdkVersion="26" android:targetSdkVersion="28" />
+	<uses-permission android:name="android.permission.CAMERA" />
+	<uses-permission android:name="android.permission.FLASHLIGHT" />
+	<application android:label="TinyTorch" android:icon="@drawable/Icon"></application>
+</manifest>
